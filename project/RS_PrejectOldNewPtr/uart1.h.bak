@@ -1,0 +1,4 @@
+#ifndef _UART1_H
+#define _UART1_H
+
+#endif	/*_UART1_H*/
