@@ -1,0 +1,2 @@
+C:/ITEGCC/bin/arm-none-eabi-ar.exe qc ../../../../lib/fa626/libaxispi.a  CMakeFiles/axispi.dir/axispi/axispi_hw.c.obj CMakeFiles/axispi.dir/axispi/mmp_axispi.c.obj
+C:/ITEGCC/bin/arm-none-eabi-ranlib.exe ../../../../lib/fa626/libaxispi.a

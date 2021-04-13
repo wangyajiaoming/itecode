@@ -1,0 +1,2 @@
+C:/ITEGCC/bin/arm-none-eabi-ar.exe qc ../../../../lib/fa626/libi2s.a  CMakeFiles/i2s.dir/i2s_970.c.obj CMakeFiles/i2s.dir/i2s_switch_GPIO.c.obj
+C:/ITEGCC/bin/arm-none-eabi-ranlib.exe ../../../../lib/fa626/libi2s.a

@@ -1,0 +1,14 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/ITEGCC/bin/arm-none-eabi-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/cygdrive/c/ITEGCC/lib/gcc/arm-none-eabi/5.4.0/../../../../arm-none-eabi/lib/crt0.o: In function `_start':
+/home/ite01017/ite/sm32-toolchain/build.arm/gcc-5.4.0.none-eabi/arm-none-eabi/newlib/libc/sys/arm/../../../../../../../src/gcc-5.4.0/newlib/libc/sys/arm/crt0.S:273: undefined reference to `initialise_monitor_handles'
+/cygdrive/c/ITEGCC/lib/gcc/arm-none-eabi/5.4.0/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): In function `exit':
+/home/ite01017/ite/sm32-toolchain/build.arm/gcc-5.4.0.none-eabi/arm-none-eabi/newlib/libc/stdlib/../../../../../../src/gcc-5.4.0/newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+

@@ -1,0 +1,2 @@
+C:/ITEGCC/bin/arm-none-eabi-ar.exe qc ../../../lib/fa626/libitu_renderer.a  CMakeFiles/itu_renderer.dir/itu_base.c.obj CMakeFiles/itu_renderer.dir/itu_surface.c.obj CMakeFiles/itu_renderer.dir/itu_utility.c.obj CMakeFiles/itu_renderer.dir/it970/itu_framefunc.c.obj CMakeFiles/itu_renderer.dir/it970/itu_lcd.c.obj CMakeFiles/itu_renderer.dir/it970/itu_m2d.c.obj
+C:/ITEGCC/bin/arm-none-eabi-ranlib.exe ../../../lib/fa626/libitu_renderer.a

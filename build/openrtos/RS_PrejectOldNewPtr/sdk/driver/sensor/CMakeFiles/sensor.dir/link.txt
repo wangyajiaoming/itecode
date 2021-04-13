@@ -1,0 +1,2 @@
+C:/ITEGCC/bin/arm-none-eabi-ar.exe qc ../../../lib/fa626/libsensor.a  CMakeFiles/sensor.dir/mmp_sensor.c.obj CMakeFiles/sensor.dir/adv7180.c.obj CMakeFiles/sensor.dir/TVP5150AM1.c.obj CMakeFiles/sensor.dir/NT99141.c.obj CMakeFiles/sensor.dir/SC1042.c.obj CMakeFiles/sensor.dir/userdefine.c.obj
+C:/ITEGCC/bin/arm-none-eabi-ranlib.exe ../../../lib/fa626/libsensor.a
